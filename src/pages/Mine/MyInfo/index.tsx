@@ -29,8 +29,7 @@ class Index extends TaroView {
 
   Body = () =>
 
-
-
+    
     VStack(
       MyImg(),
 
